@@ -16,6 +16,7 @@ The GitHub repository will roughly be divided into the branches with each of the
 Kevin_Babashov Branch: 
 Ensemble Learning Methods + Base Model 
 Positive Weighting + Base Model
+Tensorflow + Kera to Pytorch switch (Failed, but included for transparency and completeness)
 
 Andrea Arifin: 
 Base Model
