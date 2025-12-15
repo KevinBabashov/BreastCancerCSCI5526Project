@@ -32,3 +32,4 @@ U-Net
 Krista Goergen:
 Color Normalization 
 Data Augmentation 
+Oversampling
