@@ -1,5 +1,5 @@
 # BreastCancerCSCI5526Project
-This Repository is a culmination of the work of Andrea Arifin (Who created the base model), Kevin Babashov, Krista Goergen, and Yousef Saad within CSCI 5526 Machine Learning for Healthcare, Fall 2025 at the University of Minnesota Twin Cities.
+This Repository is a culmination of the work of Andrea Arifin (Who created the base model), Kevin Babashov, Krista Goergen, and Yousef Saad within CSCI 5526 Machine Learning for Healthcare, Fall 2025 at the University of Minnesota Twin Cities. Use the Kaggle.json file for the username and password for the kaggle dataset usage in the files.
 
 The work is roughly separated into the following categories: 
 
